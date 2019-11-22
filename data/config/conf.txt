@@ -1,0 +1,43 @@
+################################################
+Pattern Analysis Config
+################################################
+By: Alejandro Coca
+Bogota; September 2015
+#######################
+
+#######################
+Paths
+#######################
+path = E:/terra-i/data/temp/test
+
+#######################
+Analysis period
+#######################
+det.ini = 4
+det.end = 13
+
+#######################
+Geodata projection
+#######################
+proj.acronym = IGH
+proj.CRS = +proj=goode +lon_0=0 +x_0=0 +y_0=0 +ellps=WGS84 +units=m +no_defs
+
+#######################
+Fishnet
+#######################
+fishnet.sizes = 15360;30720;61440
+
+#######################
+Fragstat
+#######################
+fragstat.exe = C:/Fragstats4/frg.exe
+fragstat.fca.file =  Q:/BACKUPS/Portatil_AlejandroCoca/temp/workshop/data/fragstat/metrics.fca 
+class.metrics = CA;PLAND;PD;ED;AREA_MN;AREA_CV;AREA_SD;LSI;SHAPE_MN;SHAPE_AM;FRAC_MN;FRAC_AM;PARA_MN
+land.metrics = NA
+
+#########################
+DM models using k-fold CV
+#########################
+CV.n.repeats = 10
+CV.n.resampling = 10
+##################################################
