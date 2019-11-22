@@ -17,7 +17,7 @@ A detailed step by step guide is under preparation.
 * [Blog post](http://www.terra-i.org/news/news/How-can-the-shapes-and-distribution-of-deforested-areas-inform-us-about-the-agents-of-changes-on-the-ground-.html)
 
 ## Zenodo
-![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.3551089.svg)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3551089.svg)](https://doi.org/10.5281/zenodo.3551089)
 
 ## Results of best models suited to the Amazon region as defined by [RAISG](https//amazoniasocioambiental.org/en/about) 
 ### Using Terra-i data
