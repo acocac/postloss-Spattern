@@ -11,4 +11,4 @@ The tool can be executed using the demo data (inside the repository folder).
 ## Presentation
 Theory and Hands-on slides are available inside the repository folder.
 
-A detailed step by step guide is in preparation.
+A detailed step by step guide is under preparation.
