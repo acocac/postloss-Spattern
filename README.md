@@ -12,3 +12,14 @@ The tool can be executed using the demo data (inside the repository folder).
 Theory and Hands-on slides are available inside the repository folder.
 
 A detailed step by step guide is under preparation.
+
+## Related links
+* [Blog post](http://www.terra-i.org/news/news/How-can-the-shapes-and-distribution-of-deforested-areas-inform-us-about-the-agents-of-changes-on-the-ground-.html)
+
+## Results
+### Using Terra-i data
+![ResultsTerrai](doc/results_terra-i.png)
+
+### Using GFC data
+![ResultsGFC](doc/results_GFC.png)
+
