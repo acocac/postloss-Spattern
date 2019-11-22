@@ -19,7 +19,7 @@ A detailed step by step guide is under preparation.
 ## Zenodo
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3551089.svg)](https://doi.org/10.5281/zenodo.3551089)
 
-## Results of best models suited to the Amazon region as defined by [RAISG](https//amazoniasocioambiental.org/en/about) 
+## Results of the best models suited to the Amazon region as defined by [RAISG](https//amazoniasocioambiental.org/en/about) 
 ### Using Terra-i data
 ![ResultsTerrai](doc/results_terra-i.png)
 
