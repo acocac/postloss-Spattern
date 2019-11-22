@@ -4,10 +4,11 @@ Data mining based tool for mapping spatial patterns of tree cover loss according
 
 If you use this repository consider citing
 ```
-Coca-Castro A. (2017). postloss-Spattern: A data mining based tool for mapping spatial patterns of tree cover loss. Repository created as part of the MSc EMMM at King's College London.
+Coca-Castro A. (2016). postloss-Spattern: A data mining based tool for mapping spatial patterns of tree cover loss. Repository created as part of a MSc. thesis entitled "Mapping deforestation stages and spatial patterns in the Amazon rainforest using fractal analysis and data mining techniques" supervised by Dr. Mark Mulligan. 
 ```
-The tool can be executed after downloading the demo data (inside the repository folder).
+The tool can be executed using the demo data (inside the repository folder).
 
-A step by step guide is in preparation.
+## Presentation
+Theory and Hands-on slides are available inside the repository folder.
 
-
+A detailed step by step guide is in preparation.
