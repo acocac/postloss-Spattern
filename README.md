@@ -22,8 +22,8 @@ Contributions via pull requests are welcome. Please make sure that changes pass 
 
 ## Future work
 - Porting the scripts in R to Python
-- Try state-of-art Deep Learning based techniques (i.e object detection)
-- Augmentation of the training dataset via active learning (pe. using ActiveLearner function from [modAL](https://modal-python.readthedocs.io/en/latest/content/models/ActiveLearner.html))
+- Try state-of-art Deep Learning based techniques suited to map spatial patterns (i.e object detection)
+- Augmentation of the training dataset via active learning (pe. using the ActiveLearner function from [modAL](https://modal-python.readthedocs.io/en/latest/content/models/ActiveLearner.html))
 
 ## Results of the best models suited to the Amazon region as defined by [RAISG](https//amazoniasocioambiental.org/en/about) 
 ### Using Terra-i data
