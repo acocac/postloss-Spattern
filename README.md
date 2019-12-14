@@ -12,7 +12,7 @@ A detailed step by step guide is under preparation. Meanwhile, theory and hands-
 
 ## Related links
 * [Blog post](http://www.terra-i.org/news/news/How-can-the-shapes-and-distribution-of-deforested-areas-inform-us-about-the-agents-of-changes-on-the-ground-.html)
-* [Thesis](http://www.terra-i.org/terra-i/publications.html) go to the section External studies 
+* [Thesis](http://www.terra-i.org/terra-i/publications.html) (go to the section "External studies")
 
 ## Acknowledgements
 The author acknowledges Dr. Mark Mulligan (first supervisor at King's College London) and Dr. Louis Reymondin (second supervisor at the International Center for Tropical Agriculture - CIAT) for their revision and feedback of this proof-of-concept scientific output.
